@@ -15,4 +15,4 @@ for (let i = 0; i < 3; i++){
     casuale.push(`${listaNomi[ranNum1]} ${listaCognomi[ranNum2]}`);
 }
 
-console.log(casuale)
+console.log(casuale);
