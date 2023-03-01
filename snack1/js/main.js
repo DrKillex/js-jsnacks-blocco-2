@@ -15,7 +15,7 @@ for (let i = 0; i < 5; i++){
  console.log(numeri)
 
  let listaNumeri = [];
-
+ numeri = 0;
  console.log(listaNumeri)
  while (listaNumeri.length < 5){
     richiesta = Number(prompt('inserisci numero'));
